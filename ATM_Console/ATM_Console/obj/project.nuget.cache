@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hfLwym9+f6o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pctal\\Documents\\University1\\BAHAR\\Nesne Tabanlı Programlama\\C#\\VS\\ATM_Console\\ATM_Console\\ATM_Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pctal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\pctal\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\pctal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\pctal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
